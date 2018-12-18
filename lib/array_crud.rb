@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 << 5
+puts add_element_to_end_of_array.inspect
 end
 
 def add_element_to_start_of_array(array, element)
